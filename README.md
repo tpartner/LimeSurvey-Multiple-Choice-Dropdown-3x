@@ -1,5 +1,5 @@
 # Multiple Choice With Searchable Select for LimeSurvey
-**A custom question theme that uses the [Select2 component](https://select2.org/) to insert a searchable select element to select options of a LimeSurvey multiple-choice type question.**
+**A custom question theme that uses the [Select2 component](https://select2.org/) to insert a searchable select element to choose options of a LimeSurvey multiple-choice type question.**
 
 ![Image Multiple-Choice-Dropdown](/Multiple-Choice-Dropdown/survey/questions/answer/multiplechoice/assets/images/mcd_1.png)
 
