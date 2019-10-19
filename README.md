@@ -10,7 +10,7 @@
 2) Create a multiple-choice question, click Save.
 
 3) Set the question setting "Question theme" to "Multiple-Choice-Dropdown", click Save.  
-![Image Select Multiple-Choice-Dropdown](/Multiple-Choice-Dropdown/survey/questions/answer/multiplechoice/assets/images/mcd_1.png)
+![Image Select Multiple-Choice-Dropdown](/Multiple-Choice-Dropdown/survey/questions/answer/multiplechoice/assets/images/mcd_2.png)
 
 4) Create subquestions as required.
 
