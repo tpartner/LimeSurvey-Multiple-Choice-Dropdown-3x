@@ -7,7 +7,7 @@
 
 1) Extract the download and upload the **Multiple-Choice-Dropdown** folder to */pathToLimeSurvey/upload/themes/question/*.
 
-2) Create a multiple-numeric question, click Save.
+2) Create a multiple-choice question, click Save.
 
 3) Set the question setting "Question theme" to "Multiple-Choice-Dropdown", click Save.  
 ![Image Select Multiple-Choice-Dropdown](/Multiple-Choice-Dropdown/survey/questions/answer/multiplechoice/assets/images/mcd_1.png)
