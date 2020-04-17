@@ -7,7 +7,7 @@ function initMCD(sgq) {
 	var thisQuestion = $('#question'+qID);
 	
 	// Add options to the select element
-	$('.checkbox-item input:checkbox', thisQuestion).each(function(i) {
+	$('.checkbox-item:not(.ls-irrelevant) input:checkbox', thisQuestion).each(function(i) {
 		var thisItem = $(this).closest('.checkbox-item');
 		var thisID = $(this).attr('id');
 		var thisLabel = $('label:eq(0)', thisItem).text();
