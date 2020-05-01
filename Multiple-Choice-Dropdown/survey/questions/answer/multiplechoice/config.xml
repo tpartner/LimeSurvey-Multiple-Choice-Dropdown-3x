@@ -36,11 +36,9 @@
     -->
     <files>
         <css>
-            <filename>scripts/select2/select2.min.css</filename>
             <filename>css/mcd.css</filename>
         </css>
         <js>
-            <filename>scripts/select2/select2.min.js</filename>
             <filename>scripts/mcd.js</filename>
         </js>
 		<preview>
